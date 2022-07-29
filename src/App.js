@@ -10,7 +10,7 @@ import './App.scss'
 function App() {
   return (
     <>
-    <Routes basename={process.env.PUBLIC_URL}>
+    <Routes>
       <Route path="/" element={<Layout />}>
         <Route index element={<Home />} />
         <Route path="about" element={<About />} />
