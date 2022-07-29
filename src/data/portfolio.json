@@ -1,0 +1,32 @@
+{
+    "portfolio": [
+        {
+            "cover": "/portfolio/1/one.jpg",
+            "title": "GGWP",
+            "description": "Responsive Website",
+            "url": "https://maria983.github.io/BulgarianNATURE/"
+
+        },
+        {
+            "cover": "/portfolio/1/two.jpg",
+            "title": "GGWP",
+            "description": "React Calculator App",
+            "url": "https://mariap983.github.io/react-calculator-app/"
+
+        },
+        {
+            "cover": "/portfolio/1/three.jpg",
+            "title": "GGWP",
+            "description": "React (Vite) Landing Page",
+            "url": "https://mariap983.github.io/honorofkings-landing-page/"
+
+        },
+        {
+            "cover": "/portfolio/1/four.jpg",
+            "title": "GGWP",
+            "description": "React Weather App",
+            "url": "https://mariap983.github.io/react-weather-app/"
+
+        }
+    ]
+}
